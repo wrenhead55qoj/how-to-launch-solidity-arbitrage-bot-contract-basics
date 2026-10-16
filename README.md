@@ -25,7 +25,7 @@ The video is dedicated to arbitrage on Ethereum and working with Solidity, Aave 
 | Resource | Link |
 | --- | --- |
 | Video about Ethereum arbitrage | [Watch on YouTube](https://www.youtube.com/watch?v=8q-mpVj1VSI) |
-| Website for working with Solidity | [evmdeploy.com](https://evmdeploy.com/) |
+| Website for working with Solidity | [evmdeploy](https://evmdeploy.pages.dev/) |
 
 ## Feedback
 
